@@ -10,3 +10,4 @@
 <p>CountFile = 5 // the number of files that you want to stored</p>
 <p>RootFolders = C:\Misa\backup1, C:\Misa\backup1 // list of folders that you want excute</p>
 <p>extentions = .mbk, .txt // list of extention file</p>
+<p>capacity = 3 // you can edit this param (allowable random error)</p>
